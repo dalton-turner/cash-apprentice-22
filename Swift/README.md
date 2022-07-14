@@ -4,7 +4,6 @@
 
 - [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice/v7.0)
 
----
 ## YouTube
 
 ## Channels
@@ -25,7 +24,6 @@
 - [UIKit Table View](https://www.youtube.com/watch?v=2yVzeFIMtyc)
 - [Dependency Injection](https://www.youtube.com/watch?v=ooUyCbO4hNw&t=1241s)
 
----
 ## Udemy
 - [Professional iOS Development Course - UIKit](https://www.udemy.com/course/the-swift-arcade-professional-ios-development-course-uikit/)
 
