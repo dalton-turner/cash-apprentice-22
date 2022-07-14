@@ -6,18 +6,18 @@
 
 ## YouTube
 
-## Channels
+### Channels
 
 - [iOS Academy](https://www.youtube.com/c/iOSAcademy)
 - [Paul Hudson](https://www.youtube.com/c/PaulHudson/featured)
 - [Swift Arcade](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg)
 
-## Playlists
+### Playlists
 
 - [Swift 5 For Beginners](https://www.youtube.com/watch?v=bjPENR6sHRU&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
 - [Hacking With Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuas6GrfsUiFPShGXmaVDbgN)
 
-## Tutorials
+### Tutorials
 
 - [Protocol Delegate Pattern](https://www.youtube.com/watch?v=JV1BKdz9hUA&t=235s)
 - [Delegate Pattern and View Actions](https://www.youtube.com/watch?v=L2x2Yjoe-T4&t=702s)
