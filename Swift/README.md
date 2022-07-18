@@ -4,6 +4,10 @@
 
 - [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice/v7.0)
 
+## Articles
+
+- [Factory Method](https://refactoring.guru/design-patterns/factory-method/swift/example)
+
 ## YouTube
 
 ### Channels
