@@ -23,6 +23,7 @@
 - [Delegate Pattern and View Actions](https://www.youtube.com/watch?v=L2x2Yjoe-T4&t=702s)
 - [UIKit Table View](https://www.youtube.com/watch?v=2yVzeFIMtyc)
 - [Dependency Injection](https://www.youtube.com/watch?v=ooUyCbO4hNw&t=1241s)
+- [Pass Data Between Table Views](https://www.youtube.com/watch?v=mTmJnPabUWg)
 
 ## Udemy
 - [Professional iOS Development Course - UIKit](https://www.udemy.com/course/the-swift-arcade-professional-ios-development-course-uikit/)
